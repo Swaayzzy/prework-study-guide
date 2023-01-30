@@ -1,5 +1,4 @@
 
-<img width="402" alt="bowtie-cat" src="https://user-images.githubusercontent.com/122579178/215373123-349df747-cadd-4d2f-add5-a320863298f9.png">
 <!DOCTYPE html>
 <html lang="en">
   <head>
